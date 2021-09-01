@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [utkonos mobile app](https://apps.apple.com/RU/app/id582201863) e-grocery Food Tech.
 
-- 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](t.me/lexkraev)**.
+- 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](https://t.me/lexkraev)**.
 
 - ⚡ Fun fact **like snowboard, basketball and guitar, listen to my covers in [instagram](http://instagram.com/lexkraev).**
 
