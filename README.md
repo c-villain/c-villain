@@ -5,7 +5,7 @@
 
 - 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](https://t.me/lexkraev)**.
 
-- ⚡ Fun fact **like snowboard, basketball and guitar, listen to my covers in [instagram](http://instagram.com/lexkraev).**
+- ⚡ Fun fact **like snowboard, basketball and guitar (rock, blues 🤟🏻), listen to my covers in [instagram](http://instagram.com/lexkraev).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
