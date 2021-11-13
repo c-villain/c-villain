@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alexander Kraev</h1>
 <h3 align="left">iOS developer from Moscow, like swift, SwiftUI, computer science</h3>
 
-- 🔭 I’m currently working on [utkonos mobile app](https://apps.apple.com/RU/app/id582201863) e-grocery Food Tech.
+- 🔭 I’m currently working on [utkonos mobile app](https://apps.apple.com/RU/app/id582201863) e-grocery [Utkonos Food Tech](https://utkonos.ru).
 
 - 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](https://t.me/lexkraev)**.
 
