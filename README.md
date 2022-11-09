@@ -9,6 +9,12 @@
 
 - ⚡ Fun fact **like snowboard, basketball and guitar (rock, blues 🤟🏻), listen to my covers in [instagram](http://instagram.com/lexkraev).**
 
+<h3 align="left">Posts</h3>
+
+- My tech blog: https://c-villain.github.io
+- Medium: https://medium.com/@lexkraev
+- Habr: https://habr.com/ru/users/lexkraev/posts
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alex-kraev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-kraev" height="30" width="40" /></a>
