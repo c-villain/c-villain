@@ -7,9 +7,9 @@
 
 - 👨🏻‍💻 Subscribe to my channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
 
-- ⚡ Fun fact **like snowboard, basketball and guitar (rock, blues 🤟🏻), listen to my covers in [instagram](http://instagram.com/lexkraev).**
+- ⚡ Fun fact **like snowboard 🏂, basketball 🏀⛹🏻 and guitar 🎸 (rock, blues 🤟🏻), listen to my covers in [instagram](http://instagram.com/lexkraev).**
 
-<h3 align="left">Posts</h3>
+<h3 align="left">🖇️ Posts</h3>
 
 - My tech blog: https://c-villain.github.io
 - Medium: [@lexkraev](https://medium.com/@lexkraev)
