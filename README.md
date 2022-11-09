@@ -12,8 +12,8 @@
 <h3 align="left">Posts</h3>
 
 - My tech blog: https://c-villain.github.io
-- Medium: https://medium.com/@lexkraev
-- Habr: https://habr.com/ru/users/lexkraev/posts
+- Medium: [@lexkraev](https://medium.com/@lexkraev)
+- Habr: [lexkraev](https://habr.com/ru/users/lexkraev/posts)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
