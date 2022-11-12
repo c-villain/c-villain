@@ -14,6 +14,7 @@
 - My tech blog: https://c-villain.github.io
 - Medium: [@lexkraev](https://medium.com/@lexkraev)
 - Habr: [lexkraev](https://habr.com/ru/users/lexkraev/posts)
+- Boost: [lexkraev](https://boosty.to/lexkraev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
