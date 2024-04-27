@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alexander Kraev</h1>
-<h3 align="left">iOS developer from Moscow, like swift, SwiftUI, computer science</h3>
+<h3 align="left">Mobile developer from Moscow, like Swift, SwiftUI, Kotlin, Jetpack, computer science</h3>
 
-- 🔭 I’m currently working on [Lenta mobile app](https://apps.apple.com/ru/app/id1435905858) e-grocery [Lenta Food Tech](https://lenta.com).
+- 🔭 I’m currently working in [Wildberries](http://wildberries.ru), Russian leading e-commerse.
 
 - 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](https://t.me/lexkraev)**.
 
