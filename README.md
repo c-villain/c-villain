@@ -11,8 +11,8 @@
 
 <h3 align="left">🖇️ Posts</h3>
 
-- My tech blog: https://c-villain.github.io
-- Medium: [@lexkraev](https://medium.com/@lexkraev)
+- My tech blog <a href="https://medium.com/lexkraev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lexkraev" height="30" width="40" /></a>: https://c-villain.github.io
+- Medium <a href="https://medium.com/lexkraev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lexkraev" height="30" width="40" /></a> : [@lexkraev](https://medium.com/@lexkraev)
 - Habr: [lexkraev](https://habr.com/ru/users/lexkraev/posts)
 - Boost: [lexkraev](https://boosty.to/lexkraev)
 
