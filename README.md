@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alexander Kraev</h1>
-<h3 align="left">Lead iOS Engineer | Writer | Open Source Author from Moscow, like Swift, SwiftUI, Kotlin, Jetpack, computer science</h3>
-
-- 🔭 I’m currently working in [Wildberries](http://wildberries.ru), Russian leading e-commerse.
+<h3 align="left">IT Lead | Mobile Engineer | Creator | Open Source Author from Moscow, like Swift, SwiftUI, Kotlin, Jetpack, computer science</h3>
 
 - 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](https://t.me/lexkraev)**.
 
