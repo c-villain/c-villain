@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alexander Kraev</h1>
-<h3 align="left">IT Lead | Mobile Engineer | Creator | Open Source Author</h3>
+<h3 align="left">CTO | IT Lead | Mobile Engineer | Creator | Open Source Author</h3>
   
 - 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](https://t.me/lexkraev)**
 
