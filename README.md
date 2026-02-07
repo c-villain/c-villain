@@ -3,7 +3,7 @@
   
 - 📫 Feel free to reach me **lexkraev@gmail.com** or **[telegram](https://t.me/lexkraev)**
 
-- Founder of [ApiValidator.ru](https://apivalidator.ru)
+- Founder of [ApiValidator.ru](https://apivalidator.ru) 👨‍💻
 
 - 👨🏻‍💻 Subscribe to my channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram
 
